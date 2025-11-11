@@ -9,7 +9,7 @@ env:
   PROVIDER_ORG: api-connect-pv-0
   INSECURE_SKIP_TLS_VERIFY: True
   API_FILES: APIfolder/api-with-examples.yaml,APIfolder/petstore-exp.json
-  #API_FOLDERS: APIfolder,APIfolderTwo
+  API_FOLDERS: APIfolder,APIfolderTwo
 
 jobs:
   run-discovery:
