@@ -8,7 +8,7 @@ env:
   PLATFORM_API_PREFIX: platform-api
   PROVIDER_ORG: api-connect-pv-0
   INSECURE_SKIP_TLS_VERIFY: True
-  API_FILES: APIfolder/api-with-examples.yaml,petstore-exp.json
+  API_FILES: APIfolder/api-with-examples.yaml,APIfolder/petstore-exp.json
   #API_FOLDERS: APIfolder,APIfolderTwo
 
 jobs:
